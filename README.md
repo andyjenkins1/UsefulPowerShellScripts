@@ -1,4 +1,4 @@
-###This Repo is where I store all my useful _PowerShell_ Scripts for automating some of my activities within Azure.  Scripts Include :-
+#This Repo is where I store all my useful _PowerShell_ Scripts for automating some of my activities within Azure.  Scripts Include :-
 
 **Sample 1 - Script**
 
