@@ -1,8 +1,10 @@
-#Heading 1
+# Heading 1
 
-This Repo is where I store all my useful _PowerShell_ Scripts for automating some of my activities within Azure.  Scripts Include :-
+This Repo is where I store all my useful _PowerShell_ Scripts for automating some of my activities within Azure.  Scripts Include :
 
-**Sample 1 - Script**
+## Text to create the next section
+
+**Sample 1 - Script** let me add something else to remove the error
 
 Learning Markdown - Hyper Links :-
 
@@ -14,7 +16,9 @@ Here is how you do lists :-
 * Cheese
 * Tomatoes
 
-Idented Links:
+### Idented Links
 
-* Calculus
-    * A professor, Has no hair, Often wears green
+* My Main List
+    * Sublist1
+    * Sublist2
+    * Sublist3
